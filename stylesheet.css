@@ -1,0 +1,89 @@
+.topnav {
+    overflow: hidden;
+    background-color: black;
+    color: white;
+}
+
+.topnav a {
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color: lightblue;
+    color: black;
+}
+
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+div container {
+    border-radius: 50px;
+    height: 50px;
+    width: 75px;
+    background-color: white;
+}
+
+
+body {
+    background-color: white;
+    background-image: url("https://visme.co/blog/wp-content/uploads/2017/07/50-Beautiful-and-Minimalist-Presentation-Backgrounds-040.jpg");
+
+}
+
+h1 {
+    font-family: 'DINAlternateBold', sans-serif !important ;
+    color: black;
+}
+
+h2 {
+    font-family: 'DINAlternateBold', sans-serif !important ;
+    color: black;
+}
+
+h3 {
+    font-family: 'DINAlternateBold', sans-serif !important ;
+    color: black;
+    text-align: center;
+}
+
+p {
+    font-family: 'DINAlternateBold', sans-serif !important ;
+    font-size: 17px;
+}
+
+
+ul {
+    font-family: 'DINAlternateBold', sans-serif !important ;
+    font-size: 15px;
+}
+
+img {
+    border-radius: 60%;
+    height: 100px;
+    display: block;
+}
+
+.button {
+    border-radius: 12px;
+    background-color: lightskyblue;
+    border: none;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
